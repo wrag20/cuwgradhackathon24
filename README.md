@@ -9,7 +9,7 @@ Dates:<br>
 Time: 10:30am - 6:30pm (after the Monday session)
 
 ** This Hackathon is **required** for CSC548 face-to-face class. However, anyone is welcome to participate <br>
-** Each students will have to attempt to create an App of their own (No teams in this Hackathon)<br>
+** Each student will have to attempt to create an App of their own (No teams in this Hackathon)<br>
 ** **All participants will be rewarded**
 
 ## Challenge Overview
