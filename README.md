@@ -2,14 +2,15 @@
 
 ## Hackathon Information
 
-Dates:
-- Monday, July 29th, 2024
-- Monday, Aug 5th, 2024
+Dates:<br>
+    - Monday, July 29th, 2024<br>
+    - Monday, Aug 5th, 2024
 
 Time: 10:30am - 6:30pm (after the Monday session)
 
 ** This Hackathon is **required** for CSC548 face-to-face class. However, anyone is welcome to participate <br>
-** Each students will have to attempt to create an App of their own (No teams in this Hackathon)
+** Each students will have to attempt to create an App of their own (No teams in this Hackathon)<br>
+** **All participants will be rewarded**
 
 ## Challenge Overview
 
@@ -37,19 +38,27 @@ You can call the API through this URL "http://x.x.x.x:8099/generate", where the 
 
 ## References
 
-### Learning:
-- Learn the basics of [HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/) and [Javascript](https://www.w3schools.com/js/)
-- Learn about one of the following platforms:
-    1. [React](https://react.dev/learn)
-    2. [AngularJS](https://angular.dev/overview)
-    3. [DJango](https://docs.djangoproject.com/en/5.0/)
-- (OPTIONAL) Explore the following:
-    - [MVC Design](https://www.sitepoint.com/mvc-design-pattern-javascript/)
+### Markup and Styling:
+[HTML](https://www.w3schools.com/html/), [CSS](https://www.w3schools.com/css/) and [Javascript](https://www.w3schools.com/js/)
+###  Web Frameworks:
+
+**You can pick ONE of the below:** <br><br>
+[React](https://react.dev/learn), [AngularJS](https://angular.dev/overview) OR [DJango](https://docs.djangoproject.com/en/5.0/)<br>
+
+###  Backend Tools:
+[ExpressJS](https://expressjs.com), [MySQL](https://dev.mysql.com/doc/) OR [MongoDB](https://www.mongodb.com/docs/)
+###  Optionals:
+
+**[MVC Design](https://www.sitepoint.com/mvc-design-pattern-javascript/)
+
+#### Notes:
+** You don't have to learn/use all the tools provided in the references section <br>
+** Any of the tools suggested in the _Web Frameworks_ section should be enough to develop your product
 
 ## Rewards
 
 We will pick the top 3 applications to receive the below rewards:
 
-- First Place: $100 Amazon Gift Card
-- Second Place: $75 Amazon Gift Card
-- Third Place: $50 Amazon Gift Card
+First Place: $100 Amazon Gift Card<br>
+Second Place: $75 Amazon Gift Card<br>
+Third Place: $50 Amazon Gift Card
