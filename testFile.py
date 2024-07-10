@@ -4,7 +4,7 @@ import requests
 url = "http://x.x.x.x:8099/generate"
 
 # Key to be provided during the Hackathon
-api_key = "key2"  
+api_key = "key"  
 data = "Give me the latest information about..." # Example data passed to the API (prompt)
 
 

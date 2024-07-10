@@ -1,5 +1,5 @@
 const url = "http://x.x.x.x:8099/generate"; // IP to be provided during the Hackathon
-const api_key = "key2"; // Key to be provided during the Hackathon
+const api_key = "key"; // Key to be provided during the Hackathon
 const data = "Give me the latest information about...";
 
 fetch(`${url}?data=${encodeURIComponent(data)}`, {
